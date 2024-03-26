@@ -8,7 +8,6 @@ from utils import *
 import openai
 from openai.error import RateLimitError, APIError
 
-# ak = "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"
 ak = ""
 
 
