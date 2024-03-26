@@ -8,7 +8,8 @@ from utils import *
 import openai
 from openai.error import RateLimitError, APIError
 
-ak = ""
+# TODO 替换为加密调用方式
+ak = "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"
 
 
 def get_emb(query_arr):
